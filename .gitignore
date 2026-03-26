@@ -2,3 +2,6 @@
 __pycache__/
 *.pt
 *.pyc
+*.pyo
+.env
+.DS_Store
