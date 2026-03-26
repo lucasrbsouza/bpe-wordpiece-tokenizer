@@ -1,0 +1,8 @@
+"""Training corpus for the BPE tokenizer experiment."""
+
+INITIAL_VOCAB: dict[str, int] = {
+    "l o w </w>": 5,
+    "l o w e r </w>": 2,
+    "n e w e s t </w>": 6,
+    "w i d e s t </w>": 3,
+}
